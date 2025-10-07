@@ -5,18 +5,27 @@ This beginner-friendly lab runs **locally** with SQLite (no server install). You
 ## What’s inside
 ```
 SQL_Helpdesk_Analytics_Lab/
-├─ setup.sql              # Builds tables and imports CSVs
-├─ queries.sql            # Analytics queries to run after setup
 ├─ data/
-│  ├─ agents.csv
-│  ├─ customers.csv
-│  ├─ sla_policies.csv
-│  ├─ tickets.csv
-│  └─ ticket_updates.csv
-├─ setup_lab.bat          # (Windows) One-click build
-├─ run_queries.bat        # (Windows) Run queries.sql
-├─ setup_lab.ps1          # (PowerShell) One-click build
-└─ run_queries.ps1        # (PowerShell) Run queries.sql
+├─ media/
+│  ├─ 01_Setup_CMD_Path.png
+│  ├─ 01_Setup_Import.png
+│  ├─ 01_Setup_Tables.png
+│  ├─ 01_Setup_Schema.png
+│  ├─ 02_Data_Agents.png
+│  ├─ 02_Ticket_Count.png
+│  ├─ 03_Ticket_Volume.png
+│  ├─ 04_Resolution_Time.png
+│  ├─ 05_SLA_Compliance.png
+│  ├─ 06_Agent_Workload.png
+│  ├─ 07_Top_Customers.png
+│  ├─ 08_Ticket_Age.png
+│  ├─ 09_Lab_Structure.png
+│  └─ 10_Helpdesk_DB.png
+├─ setup.sql
+├─ queries.sql
+├─ README.md
+└─ helpdesk.db
+
 ```
 # SQL Helpdesk Analytics — SQLite Local Lab
 
