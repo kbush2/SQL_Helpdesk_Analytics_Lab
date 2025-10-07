@@ -66,9 +66,21 @@ Hands-on lab demonstrating SQL analytics skills using a realistic helpdesk datab
 ## Evidence
 | Step | Description | Screenshot |
 |------|--------------|-------------|
-| 1 | Database created successfully | ![Setup Tables](media/01_Setup_Tables.png) |
-| 2 | Ticket volume by priority | ![Ticket Volume](media/03_Ticket_Volume.png) |
-| 3 | SLA compliance analysis | ![SLA Compliance](media/05_SLA_Compliance.png) |
+| 1 | Command Prompt opened in lab directory | ![CMD Path](media/01_Setup_CMD_Path.png) |
+| 2 | Executed setup script and imported CSV data | ![Setup Import](media/01_Setup_Import.png) |
+| 3 | Verified tables were created using `.tables` | ![Tables](media/01_Setup_Tables.png) |
+| 4 | Displayed schema for Agents table using `.schema agents` | ![Schema](media/01_Setup_Schema.png) |
+| 5 | Verified sample Agents data loaded correctly | ![Agents Data](media/02_Data_Agents.png) |
+| 6 | Verified total Tickets count | ![Ticket Count](media/02_Ticket_Count.png) |
+| 7 | Ticket volume by priority | ![Ticket Volume](media/03_Ticket_Volume.png) |
+| 8 | Calculated average resolution time (in hours) | ![Resolution Time](media/04_Resolution_Time.png) |
+| 9 | SLA compliance analysis by priority | ![SLA Compliance](media/05_SLA_Compliance.png) |
+| 10 | Agent workload summary (active tickets) | ![Agent Workload](media/06_Agent_Workload.png) |
+| 11 | Top customers by ticket volume | ![Top Customers](media/07_Top_Customers.png) |
+| 12 | Ticket age analysis for unresolved tickets | ![Ticket Age](media/08_Ticket_Age.png) |
+| 13 | Verified full lab folder structure | ![Lab Structure](media/09_Lab_Structure.png) |
+| 14 | Confirmed helpdesk.db database file created | ![Helpdesk DB](media/10_Helpdesk_DB.png) |
+
 
 ## Takeaways
 - Practiced SQL joins and aggregates
