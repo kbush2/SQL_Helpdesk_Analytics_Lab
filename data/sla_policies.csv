@@ -1,0 +1,5 @@
+sla_id,sla_name,priority,first_response_mins,resolve_mins,business_hours
+1,Platinum - Critical,Critical,15,240,1
+2,Gold - High,High,30,720,1
+3,Silver - Medium,Medium,120,1440,0
+4,Bronze - Low,Low,240,4320,0

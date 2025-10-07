@@ -1,0 +1,6 @@
+customer_id,company_name,contact_name,contact_email,industry,tier
+1001,Acme Logistics,Renee Walsh,renee.walsh@acmelog.com,Transportation,Gold
+1002,BlueSky Retail,Marco Soto,marco.soto@blueskyretail.com,Retail,Silver
+1003,Civic Health,Camila Ortiz,camila.ortiz@civichealth.org,Healthcare,Gold
+1004,Delta Finance,Jorge Park,jorge.park@deltafinance.com,Finance,Platinum
+1005,EverGreen Foods,Sara Kent,sara.kent@evergreenfoods.co,Food,Silver

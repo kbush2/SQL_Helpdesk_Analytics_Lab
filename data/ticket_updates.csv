@@ -1,0 +1,9 @@
+update_id,ticket_id,updated_at,update_type,notes,agent_id
+9001,5001,2024-07-01 08:25:00,Public,Investigating VPN gateway,4
+9002,5001,2024-07-01 10:55:00,Private,Restarted tunnel & validated routes,4
+9003,5003,2024-07-03 16:05:00,Public,Waiting on HR to submit details,1
+9004,5004,2024-07-05 10:20:00,Public,Escalated to Security,5
+9005,5004,2024-07-05 12:45:00,Public,Service restored — root cause pending,5
+9006,5007,2024-07-07 11:30:00,Public,Checked AP utilization; moving users,8
+9007,5009,2024-07-09 07:35:00,Private,Forced EDR policy update,5
+9010,5010,2024-07-10 13:10:00,Public,On-site visit scheduled,3

@@ -1,0 +1,11 @@
+ticket_id,created_at,resolved_at,priority,status,subject,customer_id,assigned_agent_id
+5001,2024-07-01 08:10:00,2024-07-01 12:05:00,High,Resolved,VPN failure for remote staff,1001,4
+5002,2024-07-02 09:22:00,2024-07-02 11:00:00,Medium,Resolved,Password reset portal error,1002,2
+5003,2024-07-03 15:45:00,,Low,Open,New hire account provisioning,1005,1
+5004,2024-07-05 10:05:00,2024-07-05 13:55:00,Critical,Resolved,Production outage in data center,1004,5
+5005,2024-07-06 14:00:00,2024-07-06 16:20:00,High,Resolved,Firewall rules blocking SaaS,1001,7
+5006,2024-07-07 08:30:00,2024-07-08 09:00:00,Medium,Resolved,Email phishing investigation,1003,9
+5007,2024-07-07 11:10:00,,High,In Progress,Slow Wi-Fi in HQ,1002,8
+5008,2024-07-08 16:50:00,2024-07-09 10:30:00,Low,Resolved,Shared drive access request,1005,10
+5009,2024-07-09 07:20:00,2024-07-09 08:05:00,Critical,Resolved,EDR agent not reporting,1004,5
+5010,2024-07-10 12:40:00,,Medium,Open,Printer outage on 3rd floor,1001,3

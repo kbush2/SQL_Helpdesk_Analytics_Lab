@@ -1,0 +1,11 @@
+agent_id,full_name,email,team,hire_date,is_active
+1,Avery Johnson,avery.johnson@example.com,Tier1,2023-01-15,1
+2,Jordan Lee,jordan.lee@example.com,Tier1,2023-03-02,1
+3,Sam Rivera,sam.rivera@example.com,Tier2,2022-10-09,1
+4,Casey Patel,casey.patel@example.com,Networking,2021-07-22,1
+5,Jamie Chen,jamie.chen@example.com,Security,2024-02-12,1
+6,Pat Morgan,pat.morgan@example.com,Tier1,2020-11-30,0
+7,Taylor Brooks,taylor.brooks@example.com,Security,2023-08-01,1
+8,Chris Diaz,chris.diaz@example.com,Networking,2022-05-20,1
+9,Alex Kim,alex.kim@example.com,Tier2,2021-12-10,1
+10,Reese Flores,reese.flores@example.com,Tier1,2024-04-18,1
