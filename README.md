@@ -79,7 +79,7 @@ Hands-on lab demonstrating SQL analytics skills using a realistic helpdesk datab
 | 11 | Top customers by ticket volume | ![Top Customers](media/07_Top_Customers.png) |
 | 12 | Ticket age analysis for unresolved tickets | ![Ticket Age](media/08_Ticket_Age.png) |
 | 13 | Verified full lab folder structure | ![Lab Structure](media/09_Lab_Structure.png) |
-| 14 | Confirmed helpdesk.db database file created | ![Helpdesk DB](media/10_Helpdesk_DB.png) |
+| 14 | Confirmed helpdesk.db database file created | ![Helpdesk DB](media/10Helpdesk_DB.png) |
 
 
 ## Takeaways
